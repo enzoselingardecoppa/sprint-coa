@@ -31,9 +31,3 @@ $$S = D \cdot (A + B \cdot \bar{C})$$
 
 ---
 
-## Como Executar a Simulação
-
-1. Acesse o circuito através do link do projeto no Tinkercad: `[Inserir Link Aqui]`.
-2. Clique no botão **Iniciar Simulação**.
-3. Para testar as condições que exigem mais de um botão acionado simultaneamente, segure a tecla **Shift** do teclado ao clicar nos componentes para mantê-los pressionados.
-4. Observe o acionamento do LED de acordo com os estados definidos na tabela verdade do relatório.
